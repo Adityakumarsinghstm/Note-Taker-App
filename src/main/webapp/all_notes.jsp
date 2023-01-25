@@ -1,7 +1,7 @@
 <%@page import="com.entities.*"%>
 <%@page import="org.hibernate.Query"%>
 <%@page import="org.hibernate.Session"%>
-<%@page import="com.helper.FactoryProvider"%>
+<%@page import="com.learn.mycart.helper.FactoryProvider"%>
 <%@ page import="java.util.List"%>
 
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
